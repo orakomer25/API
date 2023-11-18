@@ -4,7 +4,7 @@ import org.json.JSONObject;
 
 import java.util.HashMap;
 
-public class TestDataJSONPlace {
+public class  TestDataJSONPlace {
 
    public int okStatusKodu=200;
    public String contentType="application/json; charset=utf-8";
